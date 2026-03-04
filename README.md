@@ -1,7 +1,7 @@
 # Hi, I'm Shree 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=FFFFFF&width=450&lines=Second-year+IT+undergrad+in+Chennai;Interested+in+tech+%2C+art+%26+literature" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=4000&pause=1000&color=FFFFFF&width=650&lines=Second-year+IT+undergrad+from+Chennai%2C+India;Interested+in+tech%2C+art+%26+literature" />
 </p>
 
 
