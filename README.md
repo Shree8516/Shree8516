@@ -5,7 +5,7 @@
 </p>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreemanivannan841@gmail.com) 
 
 # 💻 Tech Stack:
