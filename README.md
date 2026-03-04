@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=4000&pause=1000&color=FFFFFF&width=650&lines=Second-year+IT+undergrad+from+Chennai%2C+India;Interested+in+tech%2C+art+%26+literature" />
 </p>
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQzNGN4ZDhocm5mMGVvbWJsb3Q5b2lleW91emFqb3M3Y3JkOTJvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ErOKzQcir2IRFYY/giphy.gif" width="400">
+</p> 
 
 # 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreemanivannan841@gmail.com) 
@@ -17,3 +20,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shree8516&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
